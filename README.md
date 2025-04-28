@@ -16,7 +16,7 @@ It enables users to upload audio files (WAV, MP3, etc.) and receive accurate tex
 *Clone the repository:*
 
 ```
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/amirezzat10/Real-Time-Speech-Recognition-Translation.git)
 cd your-repo-name
 ```
 
