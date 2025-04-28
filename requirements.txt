@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+transformers
+datasets
+evaluate
+torch
+pydub
+numpy
