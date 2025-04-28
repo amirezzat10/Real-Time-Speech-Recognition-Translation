@@ -17,7 +17,7 @@ It enables users to upload audio files (WAV, MP3, etc.) and receive accurate tex
 
 ```
 git clone https://github.com/amirezzat10/Real-Time-Speech-Recognition-Translation.git)
-cd your-repo-name
+cd Real-Time-Speech-Recognition-Translation
 ```
 
 *Install the required packages:*
